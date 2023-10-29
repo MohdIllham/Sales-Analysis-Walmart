@@ -22,14 +22,14 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Sales Analysis Walmart
-**Code:** [`Sales Analysis Walmart `](Sales Analysis Walmart/Sales Analysis Walmart.sql)    
+**Code:** [`Sales Analysis Walmart `]([Sales Analysis Walmart/Sales Analysis Walmart.sql](https://github.com/gexplode27/Repository/blob/main/Sales%20Analysis%20Walmart/Sales%20Analysis%20Walmart.sql))    
 **Description:** The project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 **Skills:** data cleaning, data analysis, Feature Engineering  
 **Technology:** SQL  
 **Results:** Deep dive of Walmart Sales Data.  
 
 ### Carbon Dioxide Emission from 1995-2018 Analysis
-**Code:** [`CO2 EMISSION.ipynb`](Emission Analysis/CO2 EMISSION.ipynb)    
+**Code:** [`CO2 EMISSION.ipynb`]([Emission Analysis/CO2 EMISSION.ipynb](https://github.com/gexplode27/Repository/blob/main/Emission%20Analysis/CO2%20EMISSION.ipynb))    
 **Description:** The dataset contains 8910 records from 1995-2018. There is a list of emission with Country, Year,Industry and Indicator. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based on country, measuring statistical factors, hypothesis testing.  
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
