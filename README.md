@@ -26,7 +26,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows.
 
 **Skills:** data cleaning, data analysis, Feature Engineering  
-**Technology:** SQL,Postgre SQL  
+**Technology:** SQL, Postgre SQL  
 **Results:** Deep dive of Walmart Sales Data.  
 
 ### Carbon Dioxide Emission from 1995-2018 Analysis
