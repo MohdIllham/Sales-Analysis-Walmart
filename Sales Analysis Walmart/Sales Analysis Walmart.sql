@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS sales(
     ,unit_price DECIMAL(10,2) NOT NULL
     ,quantity INT NOT NULL
     ,tax FLOAT NOT NULL                     
-	,,total DECIMAL(12, 4) NOT NULL
+    ,total DECIMAL(12, 4) NOT NULL
     ,date DATE NOT NULL
     ,time TIME NOT NULL
     ,payment VARCHAR(15) NOT NULL
